@@ -2,6 +2,7 @@ Diesel upsert experiment
 ========================
 
 Previous: https://github.com/pickfire/diesel-join-not-exist
+Next: https://github.com/pickfire/diesel-group-by
 
 This time it requires diesel-git which isn't released.
 
